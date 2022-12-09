@@ -8,6 +8,7 @@
 int main(void)
 {
 	int s;
+
 	s = 0;
 	while
 		(s < 10) {
