@@ -2,7 +2,7 @@
 #include "main.h"
 
 /**
- * print_triangle _ prints a triangle
+ * print_triangle - prints a triangle
  * @size: size parameter of triangle
  * Return: returns nothing
  */
@@ -10,6 +10,7 @@
 void print_triangle(int size)
 {
 	int incl, inc2;
+
 	if (size > 0)
 	{
 		for (inc1 = 1; inc1 <= size; inc1++)
