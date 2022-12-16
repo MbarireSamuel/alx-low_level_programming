@@ -1,4 +1,5 @@
 #include <stdio.h>
+
 /**
  * main - checks for uppercase character.
  * Return: 0
