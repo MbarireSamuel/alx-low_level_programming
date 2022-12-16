@@ -19,12 +19,13 @@ int main(void)
 				printf("\n');
 			}
 			else
-				printf("Buzz");
+				printf("Buzz ");
 		}
 		else if (h % 3 == 0)
 			printf("Fizz ");
 		else
-			printf("%d ", h);
+
+			printf(" % d ", h);
 		h++;
 		}
 	return (0);
